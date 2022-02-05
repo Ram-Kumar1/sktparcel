@@ -1,0 +1,137 @@
+[31-Oct-2021 13:28:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/it53b65f6fb3/public_html/db_connect.php on line 13
+[31-Oct-2021 13:29:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/it53b65f6fb3/public_html/db_connect.php on line 13
+[31-Oct-2021 18:59:12 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/it53b65f6fb3/public_html/admin_login.php on line 31
+[31-Oct-2021 18:59:12 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/it53b65f6fb3/public_html/admin_login.php on line 35
+[31-Oct-2021 19:04:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/it53b65f6fb3/public_html/admin_login.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/admin_login.php on line 31
+[31-Oct-2021 19:06:31 Asia/Kolkata] PHP Notice:  Undefined index: INVOICE_STATUS in /home/it53b65f6fb3/public_html/viewBookingList.php on line 183
+[31-Oct-2021 19:06:31 Asia/Kolkata] PHP Notice:  Undefined index: INVOICE_STATUS in /home/it53b65f6fb3/public_html/viewBookingList.php on line 183
+[31-Oct-2021 19:06:31 Asia/Kolkata] PHP Notice:  Undefined index: INVOICE_STATUS in /home/it53b65f6fb3/public_html/viewBookingList.php on line 183
+[31-Oct-2021 13:40:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 13:40:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 19:16:07 Asia/Kolkata] PHP Notice:  Undefined index: userName in /home/it53b65f6fb3/public_html/index.php on line 10
+[31-Oct-2021 19:16:07 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/index.php on line 11
+[31-Oct-2021 19:16:07 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/header.php on line 131
+[31-Oct-2021 19:16:07 Asia/Kolkata] PHP Notice:  Undefined index: userName in /home/it53b65f6fb3/public_html/header.php on line 133
+[31-Oct-2021 19:16:07 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/index.php on line 366
+[31-Oct-2021 19:16:07 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/index.php on line 368
+[31-Oct-2021 13:53:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 19:23:17 Asia/Kolkata] PHP Notice:  Undefined index: INVOICE_STATUS in /home/it53b65f6fb3/public_html/viewBookingList.php on line 183
+[31-Oct-2021 19:23:17 Asia/Kolkata] PHP Notice:  Undefined index: INVOICE_STATUS in /home/it53b65f6fb3/public_html/viewBookingList.php on line 183
+[31-Oct-2021 19:23:17 Asia/Kolkata] PHP Notice:  Undefined index: INVOICE_STATUS in /home/it53b65f6fb3/public_html/viewBookingList.php on line 183
+[31-Oct-2021 19:23:30 Asia/Kolkata] PHP Notice:  Undefined index: INVOICE_STATUS in /home/it53b65f6fb3/public_html/viewBookingList.php on line 183
+[31-Oct-2021 19:23:30 Asia/Kolkata] PHP Notice:  Undefined index: INVOICE_STATUS in /home/it53b65f6fb3/public_html/viewBookingList.php on line 183
+[31-Oct-2021 19:23:30 Asia/Kolkata] PHP Notice:  Undefined index: INVOICE_STATUS in /home/it53b65f6fb3/public_html/viewBookingList.php on line 183
+[31-Oct-2021 19:27:09 Asia/Kolkata] PHP Notice:  Undefined index: userName in /home/it53b65f6fb3/public_html/index.php on line 10
+[31-Oct-2021 19:27:09 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/index.php on line 11
+[31-Oct-2021 19:27:09 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/header.php on line 131
+[31-Oct-2021 19:27:09 Asia/Kolkata] PHP Notice:  Undefined index: userName in /home/it53b65f6fb3/public_html/header.php on line 133
+[31-Oct-2021 19:27:09 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/index.php on line 366
+[31-Oct-2021 19:27:09 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/index.php on line 368
+[31-Oct-2021 19:27:48 Asia/Kolkata] PHP Notice:  Undefined index: INVOICE_STATUS in /home/it53b65f6fb3/public_html/viewBookingList.php on line 183
+[31-Oct-2021 19:27:48 Asia/Kolkata] PHP Notice:  Undefined index: INVOICE_STATUS in /home/it53b65f6fb3/public_html/viewBookingList.php on line 183
+[31-Oct-2021 19:27:48 Asia/Kolkata] PHP Notice:  Undefined index: INVOICE_STATUS in /home/it53b65f6fb3/public_html/viewBookingList.php on line 183
+[31-Oct-2021 19:38:51 Asia/Kolkata] PHP Notice:  Undefined index: userName in /home/it53b65f6fb3/public_html/index.php on line 10
+[31-Oct-2021 19:38:51 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/index.php on line 11
+[31-Oct-2021 19:38:51 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/header.php on line 131
+[31-Oct-2021 19:38:51 Asia/Kolkata] PHP Notice:  Undefined index: userName in /home/it53b65f6fb3/public_html/header.php on line 133
+[31-Oct-2021 19:38:51 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/index.php on line 366
+[31-Oct-2021 19:38:51 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/index.php on line 368
+[31-Oct-2021 14:10:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 14:10:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 14:10:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 19:41:21 Asia/Kolkata] PHP Notice:  Undefined index: userName in /home/it53b65f6fb3/public_html/index.php on line 10
+[31-Oct-2021 19:41:21 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/index.php on line 11
+[31-Oct-2021 19:41:21 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/header.php on line 131
+[31-Oct-2021 19:41:21 Asia/Kolkata] PHP Notice:  Undefined index: userName in /home/it53b65f6fb3/public_html/header.php on line 133
+[31-Oct-2021 19:41:21 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/index.php on line 366
+[31-Oct-2021 19:41:21 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/index.php on line 368
+[31-Oct-2021 14:11:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 14:18:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 19:48:58 Asia/Kolkata] PHP Notice:  Undefined variable: invoiceNoToPlaceMap in /home/it53b65f6fb3/public_html/createShipOutward.php on line 296
+[31-Oct-2021 14:19:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 14:19:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 14:19:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 14:23:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 14:24:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 14:24:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 14:25:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 14:25:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 14:25:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 14:25:17 UTC] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/header.php on line 131
+[31-Oct-2021 14:25:17 UTC] PHP Notice:  Undefined index: userName in /home/it53b65f6fb3/public_html/header.php on line 133
+[31-Oct-2021 14:26:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 14:26:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 14:26:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 14:27:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/it53b65f6fb3/public_html/newBooking.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/it53b65f6fb3/public_html/newBooking.php on line 221
+[31-Oct-2021 19:58:09 Asia/Kolkata] PHP Notice:  Undefined index: userName in /home/it53b65f6fb3/public_html/index.php on line 10
+[31-Oct-2021 19:58:09 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/index.php on line 11
+[31-Oct-2021 19:58:09 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/header.php on line 131
+[31-Oct-2021 19:58:09 Asia/Kolkata] PHP Notice:  Undefined index: userName in /home/it53b65f6fb3/public_html/header.php on line 133
+[31-Oct-2021 19:58:09 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/index.php on line 366
+[31-Oct-2021 19:58:09 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/it53b65f6fb3/public_html/index.php on line 368

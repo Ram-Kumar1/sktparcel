@@ -1,0 +1,2 @@
+1. create table daily_production_tracker
+2. add date to machine_time_record

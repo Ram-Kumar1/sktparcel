@@ -1,0 +1,28 @@
+.select2-selection__rendered {
+    background: #428bca;
+    border-bottom: 1px solid #5796cd !important;
+    border-color: #428bca;
+    color: #0a0a0a !important;
+}
+
+.select2-selection {
+    border: aliceblue !important;
+}
+
+.select2-results__option {
+    background: white;
+}
+
+select {
+    background: #428bca;
+    border-bottom: 1px solid #5796cd !important;
+    border-color: #428bca;
+}
+
+option {
+    background: white;
+}
+
+.mandatory-field {
+    color: red;
+}

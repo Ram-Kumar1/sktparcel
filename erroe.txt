@@ -1,0 +1,5 @@
+ - production 
+    product name  -  job work - different dropdown
+
+ -qutation 
+    add job work - on select -  all drop down value  -- change to -- input text
